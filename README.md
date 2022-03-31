@@ -1,4 +1,8 @@
-# MachineLearningAcademic
+![resources/header-jpg](resources/header.jpg)
 
-This repository contains all the code written while taking the course [link](hhtp:)
+---
+
+## About
+
+This repository contains all the Machine Learning models created while taking the course **Machine Learning A-Z™: Hands-On Python & R In Data Science**
 
