@@ -4,5 +4,5 @@
 
 ## About
 
-This repository contains all the Machine Learning models created while taking the course **Machine Learning A-Z™: Hands-On Python & R In Data Science**
+This repository contains Machine Learning models I created while taking different ML courses
 
